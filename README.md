@@ -15,7 +15,8 @@ This library management system employs core Java Object-Oriented Programming (OO
 
 The system's design prioritizes modularity and scalability. Each class focuses on a specific entity, making the code easier to maintain and extend. Future enhancements, such as database integration, a graphical user interface, and advanced features like fine management and user authentication, can be incorporated without significantly altering the core structure. The use of ArrayLists allows for dynamic data handling, and the inclusion of methods for searching and updating ensures efficient data retrieval and modification, laying a strong foundation for a robust and adaptable library management system.
 
-![EEG Band Discovery](assets/Screenshot 2025-03-30 213259.png)
+![EEG Band Discovery](https://github.com/user-attachments/assets/e4e00cd0-cadf-45af-9fc9-4085f6558348)
+
 
 ### Console based Chat Application
 [Publication](https://github.com/Prem36032/Chat_Application)
@@ -24,4 +25,5 @@ This console-based chat application leverages an Oracle Database for persistent 
 
 The use of an Oracle Database enhances the application's reliability and scalability by providing a structured and efficient way to store and retrieve chat logs. Database operations, such as inserting new messages and querying historical data, are optimized for performance. Multi-threading facilitates asynchronous message handling, preventing delays and ensuring that messages are delivered promptly. This project showcases the integration of database systems and multi-threading to create a robust and functional chat application, highlighting the developer's proficiency in these critical areas.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](https://github.com/user-attachments/assets/ec7ea333-b55f-4da6-b6d0-2ea66a597098)
+
