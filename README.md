@@ -1,5 +1,7 @@
 # Software developer
 
+LinkedIn - [LinkedIn | Prem](https://www.linkedin.com/in/prem1708) Mail - [Premkumar36032@gmail.com](Premkumar36032@gmail.com)
+
 #### Technical Skills: Java, SQL, GitHub, Oracle
 
 ## Education
@@ -25,5 +27,6 @@ This console-based chat application leverages an Oracle Database for persistent 
 
 The use of an Oracle Database enhances the application's reliability and scalability by providing a structured and efficient way to store and retrieve chat logs. Database operations, such as inserting new messages and querying historical data, are optimized for performance. Multi-threading facilitates asynchronous message handling, preventing delays and ensuring that messages are delivered promptly. This project showcases the integration of database systems and multi-threading to create a robust and functional chat application, highlighting the developer's proficiency in these critical areas.
 
-![Bike Study](https://github.com/user-attachments/assets/ec7ea333-b55f-4da6-b6d0-2ea66a597098)
+![Picture](https://github.com/user-attachments/assets/ec7ea333-b55f-4da6-b6d0-2ea66a597098)
 
+### Thank you for visiting my portfolio! Looking forward to connecting with you
